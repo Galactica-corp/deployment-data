@@ -1,0 +1,66 @@
+{
+  "Galactica Example Guardian": {
+    "address": "0x018448224E6Bf248dA52e4693886955e023E0737",
+    "pubKey": {
+      "Ax": "15406969288470165023871038883559428361347771769942780978458824541644678347676",
+      "Ay": "20991550033662087418703288468635020238179240540666871457074661834730112436793"
+    },
+    "metadata_url": "ipfs://QmbxKQbSU2kMRx3Q96JWFvezKVCKv8ik4twKg7SFktkrgx",
+    "active_networks": [
+      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "kyc",
+      "twitter",
+      "data",
+      "rey"
+    ]
+  },
+  "DevNet Guardian": {
+    "address": "0xEcE0BBeB552710718A1bD5E028443ff9B2f26BE5",
+    "pubKey": {
+      "Ax": "0",
+      "Ay": "0"
+    },
+    "metadata_url": "",
+    "active_networks": [
+      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
+  },
+  "SwissBorg": {
+    "address": "",
+    "pubKey": {
+      "Ax": "",
+      "Ay": ""
+    },
+    "metadata_url": "",
+    "active_networks": [
+      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
+  },
+  "Occam": {
+    "address": "",
+    "pubKey": {
+      "Ax": "",
+      "Ay": ""
+    },
+    "metadata_url": "",
+    "active_networks": [
+      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "data",
+      "twitter"
+    ]
+  }
+}

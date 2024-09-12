@@ -1,0 +1,34 @@
+{
+  "networks": {
+    "galaAndromeda": {
+      "url": "https://evm-rpc-http-andromeda.galactica.com/"
+    },
+    "reticulum": {
+      "url": "https://evm-rpc-http-reticulum.galactica.com/"
+    }
+  },
+  "etherscan": {
+    "customChains": [
+      {
+        "network": "galaAndromeda",
+        "chainId": 41238,
+        "urls": {
+          "apiURL": "https://explorer-andromeda.galactica.com/api",
+          "browserURL": "https://explorer-andromeda.galactica.com/"
+        }
+      },
+      {
+        "network": "reticulum",
+        "chainId": 9302,
+        "urls": {
+          "apiURL": "https://explorer-reticulum.galactica.com/api",
+          "browserURL": "https://explorer-reticulum.galactica.com/"
+        }
+      }
+    ],
+    "apiKey": {
+      "galaAndromeda": "",
+      "reticulum": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "andromeda": {
+    "dapp_address": "0x9a17084bb850FBF1431BBEC6e7b316F374E2b49c",
+    "verifier_address": "0x862Cc9FE60F6c53080D524f2997aB2595F4C09eC",
+    "sbt_address": "0xc6d55A0F0f7b6b5a2418963AC35d312535F20D67"
+  },
+  "reticulum": {
+    "dapp_address": "0x9a17084bb850FBF1431BBEC6e7b316F374E2b49c",
+    "verifier_address": "0x862Cc9FE60F6c53080D524f2997aB2595F4C09eC",
+    "sbt_address": "0xc6d55A0F0f7b6b5a2418963AC35d312535F20D67"
+  }
+}

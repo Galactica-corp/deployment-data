@@ -1,0 +1,10 @@
+{
+  "andromeda": {
+    "guardian_registry": "0x931574DE295c9D8a2f59697b6B9E560248c2EB2B",
+    "certificate_registry": "0x913589A090011fa4Fa7C2655db943441f9d6B0dD"
+  },
+  "reticulum": {
+    "guardian_registry": "0x4210A221FcA8603C52cc96924dE635fBeb794364",
+    "certificate_registry": "0x88153441742033B326E3214F3c29371700179409"
+  }
+}
