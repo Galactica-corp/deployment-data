@@ -1,0 +1,15 @@
+{
+    "andromeda": {
+        "SBTManager": "0x3e2Ae72c127008e738EeF1Ea5b83594558095451",
+        "TwitterCreationTimeProofVerifier": "0x89fc647C26470965389b03d84A93424A7C14c0f5",
+        "TwitterCreationTimeProof": "0x448CED08617bf59d060fe34119A0Bd0DFEe79E7c",
+        "TwitterFollowersCountVerifier": "0x01B20De3253004381632ab5c30a6783806905e8B",
+        "TwitterFollowersCount": "0xF74E9fb925715316029D73CC26AA6b808Daa691a",
+        "VerificationSBT1 (FollowerCount 100)": "0xe79b324a977484b958D5aF31476D8023CE68A6B2",
+        "VerificationSBT2 (FollowerCount 1000)": "0x55B18bC738d7ecb939814dDc434361Ecb7d39448",
+        "VerificationSBT3 (FollowerCount 10000)": "0x71A289BC86704c31d75368B4b63FE85f6Fa8486F",
+        "VerificationSBT4 (CreationTime before 2020)": "0x1e575881CfeeF132Ef928CF6a369c53638683685",
+        "VerificationSBT5 (CreationTime in 2024)": "0xD5E27e0cE400FD70B7543Ee686951e926737793e"
+    }
+}
+  
