@@ -1,0 +1,17 @@
+{
+  "andromeda": {
+    "circom_verifier_address": "0x1461b4C88820c21eA97b4d62e2c7A4b85d6F9944",
+    "non_US": {
+      "AgeCitizenshipKYC": "0x82c4db364D43489084e701573d0D8bC25fD8b084",
+      "BasicKYCExampleDApp": "0x41150f236ca5D082f04F0E070A4A93b41A52d6EB"
+    },
+    "non_sanctioned_jurisdiction": {
+      "AgeCitizenshipKYC": "0xf4A1aDdEd9E171e4228674b649069d0bA49E6cFf",
+      "BasicKYCExampleDApp": "0x962D9bE5e676a9Eab6E5DBdF5589bd9E1476c94C"
+    },
+    "adult_18_plus": {
+      "AgeCitizenshipKYC": "0xEf149c835188f74eBea46e7DE0fA7cC5C09Da990",
+      "BasicKYCExampleDApp": "0x8337F368d113B998A3fc8aA6F75492455C23Cb85"
+    }
+  }
+}
