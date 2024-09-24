@@ -1,0 +1,8 @@
+{
+  "reticulum": {
+    "dapp_address": "0x12fe3F112E9adc7Da80A19Be404D4945aA98553a",
+    "verifier_wrapper_address": "0xf8787bA740bFdBE62c6bC92dCDB4d93986252206",
+    "circom_verifier_address": "0x9069B02F02794d4356396F3aef4a3233c2873857",
+    "sbt_address": "0xc6d55A0F0f7b6b5a2418963AC35d312535F20D67s"
+  }
+}
