@@ -18,7 +18,10 @@
     ]
   },
   "DevNet Guardian": {
-    "address": "0xEcE0BBeB552710718A1bD5E028443ff9B2f26BE5",
+    "address": {
+      "andromeda": "0xB77A0a4a895180F2EE5485d0e7b54730De4C4F6E",
+      "reticulum": "0xEcE0BBeB552710718A1bD5E028443ff9B2f26BE5"
+    },
     "pubKey": {
       "Ax": "0",
       "Ay": "0"

@@ -1,17 +1,18 @@
 {
   "andromeda": {
-    "circom_verifier_address": "0x1461b4C88820c21eA97b4d62e2c7A4b85d6F9944",
+    "circom_verifier": "0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A",
+    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
     "non_US": {
-      "AgeCitizenshipKYC": "0x82c4db364D43489084e701573d0D8bC25fD8b084",
-      "BasicKYCExampleDApp": "0x41150f236ca5D082f04F0E070A4A93b41A52d6EB"
+      "AgeCitizenshipKYC": "0xDc756ec3571b05594a63e6BF0ec2B4806aeE3656",
+      "BasicKYCExampleDApp": "0xC15c258809d93511996739328169bd4e244a5C35"
     },
     "non_sanctioned_jurisdiction": {
-      "AgeCitizenshipKYC": "0xf4A1aDdEd9E171e4228674b649069d0bA49E6cFf",
-      "BasicKYCExampleDApp": "0x962D9bE5e676a9Eab6E5DBdF5589bd9E1476c94C"
+      "AgeCitizenshipKYC": "0x84204752a8A17B64897095661c47f7Cb02E266a5",
+      "BasicKYCExampleDApp": "0xFc98afe59cDDB6b8E6cdD09210475B1B89DD9235"
     },
     "adult_18_plus": {
-      "AgeCitizenshipKYC": "0xEf149c835188f74eBea46e7DE0fA7cC5C09Da990",
-      "BasicKYCExampleDApp": "0x8337F368d113B998A3fc8aA6F75492455C23Cb85"
+      "AgeCitizenshipKYC": "0x424029834AE4d7f98CEcE496DA5fa55e888b2618",
+      "BasicKYCExampleDApp": "0xE1F8832BD48a2Eb75DD19639B5859a243292c8ef"
     }
   }
 }

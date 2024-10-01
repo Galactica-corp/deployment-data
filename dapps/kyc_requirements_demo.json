@@ -1,8 +1,16 @@
 {
+  "andromeda": {
+    "compliant_erc20": "0x13b2Bf1d76687B88cF936480F9682Eec0Abb34E8",
+    "compliance_dapp": "0x5C824b8b2aC21F423D4b8C32A704d00729078409",
+    "verifier_wrapper": "0x706ab44E708810DBe516319929e0E59e6eDAa881",
+    "circom_verifier": "0x6aE51495AF331BDB1031cb0F4612C0b665155c25",
+    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06"
+  },
   "reticulum": {
-    "dapp_address": "0x12fe3F112E9adc7Da80A19Be404D4945aA98553a",
-    "verifier_wrapper_address": "0xf8787bA740bFdBE62c6bC92dCDB4d93986252206",
-    "circom_verifier_address": "0x9069B02F02794d4356396F3aef4a3233c2873857",
-    "sbt_address": "0xc6d55A0F0f7b6b5a2418963AC35d312535F20D67s"
+    "compliant_erc20": "0x5f278FC854E19da085d3BC702AE7e07a12E0C61F",
+    "compliance_dapp": "0xaB28422bb372FBcc39D08bDf1295cd98f19ee6C0",
+    "verifier_wrapper": "0x8E7A73aaBcdF692bE84D87332a9D96A54AD8517c",
+    "circom_verifier": "0x886e5A8038ae21F8f075470cbdE8dCe3bEE0161B",
+    "verificationSBT": "0x8DbCB0a08CFe38Ee20326471E4260be4BfD321b6"
   }
 }

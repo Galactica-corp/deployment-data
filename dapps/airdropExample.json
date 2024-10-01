@@ -1,0 +1,8 @@
+{
+  "andromeda": {
+    "circom_verifier": "0x2f08802bfC317FC358d885DC7986fBE57F226Aa6",
+    "AgeCitizenshipKYC_verifier_wrapper": "0xb483994779625b51d43C002543b793bC1a4261D4",
+    "mockDApp:": "0x4b94E27E762583F6c3DFFA498a86E50a23b70248",
+    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06"
+  }
+}
