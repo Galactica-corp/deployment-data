@@ -1,5 +1,5 @@
 {
-  "Galactica Example Guardian": {
+  "Galactica Developer Guardian": {
     "address": "0x018448224E6Bf248dA52e4693886955e023E0737",
     "pubKey": {
       "Ax": "15406969288470165023871038883559428361347771769942780978458824541644678347676",
@@ -64,6 +64,21 @@
     "zk_cert_types": [
       "data",
       "twitter"
+    ]
+  },
+  "Galactica Example Guardian": {
+    "address": "0x40f2e27f95b50E4D13849d09d2504004A2D57f50",
+    "pubKey": {
+      "Ax": "542392217015776343324167851102883958988823179521847413386993369514251363551",
+      "Ay": "3645175600008694986783689549861958630754008863574202468998120858655806309705"
+    },
+    "metadata_url": "ipfs://QmbxKQbSU2kMRx3Q96JWFvezKVCKv8ik4twKg7SFktkrgx",
+    "active_networks": [
+      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "kyc"
     ]
   }
 }
