@@ -4,7 +4,9 @@
     "compliance_dapp": "0x5C824b8b2aC21F423D4b8C32A704d00729078409",
     "verifier_wrapper": "0x706ab44E708810DBe516319929e0E59e6eDAa881",
     "circom_verifier": "0x6aE51495AF331BDB1031cb0F4612C0b665155c25",
-    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06"
+    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.vkey.json"
   },
   "reticulum": {
     "compliant_erc20": "0x5f278FC854E19da085d3BC702AE7e07a12E0C61F",

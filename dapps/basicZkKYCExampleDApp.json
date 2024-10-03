@@ -4,6 +4,8 @@
     "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
     "zkKYC_verifier_wrapper": "0x2c63e4CD5D3376750383855FF686b2c28E33aCfB",
     "basicKYCExampleDApp:": "0xeC7D005Fed567EDCbA285f9585dC20920F4dE98f",
-    "repeatableZKPTest": "0x7DF17C479ADf6AFFECB094ec829B0216f31e62fC"
+    "repeatableZKPTest": "0x7DF17C479ADf6AFFECB094ec829B0216f31e62fC",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.vkey.json"
   }
 }

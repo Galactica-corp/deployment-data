@@ -2,6 +2,8 @@
   "andromeda": {
     "circom_verifier": "0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A",
     "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A.vkey.json",
     "non_US": {
       "AgeCitizenshipKYC": "0xDc756ec3571b05594a63e6BF0ec2B4806aeE3656",
       "BasicKYCExampleDApp": "0xC15c258809d93511996739328169bd4e244a5C35"
