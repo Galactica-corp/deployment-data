@@ -9,7 +9,11 @@
         "VerificationSBT2 (FollowerCount 1000)": "0x55B18bC738d7ecb939814dDc434361Ecb7d39448",
         "VerificationSBT3 (FollowerCount 10000)": "0x71A289BC86704c31d75368B4b63FE85f6Fa8486F",
         "VerificationSBT4 (CreationTime before 2020)": "0x1e575881CfeeF132Ef928CF6a369c53638683685",
-        "VerificationSBT5 (CreationTime in 2024)": "0xD5E27e0cE400FD70B7543Ee686951e926737793e"
+        "VerificationSBT5 (CreationTime in 2024)": "0xD5E27e0cE400FD70B7543Ee686951e926737793e",
+        "proverTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0x4af769ea4F45166E8453b67340781dF0E29E6e7A.prover.json",
+        "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x1A29924A1d29B179B71Bd2D50a5Ca872c6035f31.prover.json",
+        "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0x4af769ea4F45166E8453b67340781dF0E29E6e7A.vkey.json",
+        "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x1A29924A1d29B179B71Bd2D50a5Ca872c6035f31.vkey.json"
     }
 }
   
