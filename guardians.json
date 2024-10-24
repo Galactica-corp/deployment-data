@@ -35,7 +35,7 @@
       "kyc"
     ]
   },
-  "SwissBorg": {
+  "SwissBorg Andromeda": {
     "address": "0xd47fee108816E4aDdc97A723f5e6CD640F9ecb73",
     "pubKey": {
       "Ax": "146431784502033622674025274505147069875100604079123064508235844028041828385",
@@ -43,7 +43,20 @@
     },
     "metadata_url": "ipfs://QmTdHoVA9gLA1Mk6Csfd2SxMkEdbuSu7xK8dDxUdFVCunx",
     "active_networks": [
-      "andromeda",
+      "andromeda"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
+  },
+  "SwissBorg Reticulum": {
+    "address": "0x43532C0b134E2173c08b386AA17ec8E8e0ecadd0",
+    "pubKey": {
+      "Ax": "16317806775374569826527872492320883869676325551818947071793417419383101879709",
+      "Ay": "15187560260230140220843771813584623553452805497050263605693316856847729264924"
+    },
+    "metadata_url": "ipfs://QmTdHoVA9gLA1Mk6Csfd2SxMkEdbuSu7xK8dDxUdFVCunx",
+    "active_networks": [
       "reticulum"
     ],
     "zk_cert_types": [
