@@ -9,10 +9,12 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.vkey.json"
   },
   "reticulum": {
-    "compliant_erc20": "0x9dfEBbf06b0080C7ECAE3627c1147AB22074391a",
-    "compliance_dapp": "0x3e7208E2Ad61e0f05c5218f3288859C60538b242",
-    "verifier_wrapper": "0xEED86068F546226959e29ab2a13bEca04c43eD3b",
-    "circom_verifier": "0xdC5370c070c756889D1dA411256D2C7e78AFc3a2",
-    "verificationSBT": "0x2492F8b0EF4332c50e25753f97D5A9EdC0e8b779"
+    "compliant_erc20": "0x6c2D6ddc7e91Db11b73eb8340d8cFa970c09748E",
+    "compliance_dapp": "0x13eca573ffa21c70cc00B43f1AC842c6F53D23f1",
+    "verifier_wrapper": "0x371cfc78bC01c5854ad80B97184c49C62b534D24",
+    "circom_verifier": "0x2AAD571A83219516Dba16230970e5B97DB12359e",
+    "verificationSBT": "0x9592927ad7f13Db9447c1AfdBf9BF75d423bE8b2",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.vkey.json"
   }
 }

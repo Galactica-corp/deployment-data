@@ -9,11 +9,10 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.vkey.json"
   },
   "reticulum": {
-    "circom_verifier": "0xA813955b4321eC93705385c6De0b8FbC50250A7d",
-    "verificationSBT": "0x2492F8b0EF4332c50e25753f97D5A9EdC0e8b779",
-    "zkKYC_verifier_wrapper": "0x1425F1Fea3a6E3Fb83397210A1C31AE82b97b88C",
-    "basicKYCExampleDApp:": "0xA3713C4e38a459e2eD08Dc7b6f974b2826cAc8Ae",
-    "repeatableZKPTest": "0xf95082FE63d32525579E49381dD1509e8B6B796D",
+    "circom_verifier": "0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13",
+    "verificationSBT": "0x47d5b9b23BC60f75F439A2A7F5D5b53e65560F45",
+    "zkKYC_verifier_wrapper": "0xfDa5904dC71a244Ab88D86CE015365c17FEbe3CE",
+    "basicKYCExampleDApp:": "0x8fdAfAf8f5cbe053Cc103E0Bee2ffe23b45a3E3d",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0xA813955b4321eC93705385c6De0b8FbC50250A7d.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0xA813955b4321eC93705385c6De0b8FbC50250A7d.vkey.json"
   }
