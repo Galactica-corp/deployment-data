@@ -8,11 +8,11 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/exampleMockDApp.0x2f08802bfC317FC358d885DC7986fBE57F226Aa6.vkey.json"
   },
   "reticulum": {
-    "circom_verifier": "0x0424e5AB148666119e0Cd6724cB9Cb7069F58C2B",
-    "AgeCitizenshipKYC_verifier_wrapper": "0x89A664eBEe2da844Ee10877A13bD9E705Fb2D333",
-    "mockDApp:": "0x1379eE258Fb2C1504d37E24116dc1f6D2929e749",
-    "verificationSBT": "0x2492F8b0EF4332c50e25753f97D5A9EdC0e8b779",
-    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/exampleMockDApp.0x0424e5AB148666119e0Cd6724cB9Cb7069F58C2B.prover.json",
-    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/exampleMockDApp.0x0424e5AB148666119e0Cd6724cB9Cb7069F58C2B.vkey.json"
+    "circom_verifier": "0xC59FBD8452Cc4317A240459359dca3Dd5f5bD9b8",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x04392500229C057257E6404f5e86b9C282BCea9D",
+    "mockDApp:": "0x33E6E9Da057adc96b00357d8dfEB577fC202f0bf",
+    "verificationSBT": "0xc2F4F3e7D5fBC144aed5609d22eE0c8B7296a2a4",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
   }
 }
