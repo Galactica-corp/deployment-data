@@ -10,9 +10,9 @@
   },
   "reticulum": {
     "circom_verifier": "0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13",
-    "verificationSBT": "0x47d5b9b23BC60f75F439A2A7F5D5b53e65560F45",
+    "verificationSBT": "0xec023F368a8933B9A0AeE8A196F397763D88b12e",
     "zkKYC_verifier_wrapper": "0xfDa5904dC71a244Ab88D86CE015365c17FEbe3CE",
-    "basicKYCExampleDApp:": "0x8fdAfAf8f5cbe053Cc103E0Bee2ffe23b45a3E3d",
+    "basicKYCExampleDApp:": "0x1C42cD28b217321B8875a5eDf09134dBBD3D7723",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0xA813955b4321eC93705385c6De0b8FbC50250A7d.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0xA813955b4321eC93705385c6De0b8FbC50250A7d.vkey.json"
   }

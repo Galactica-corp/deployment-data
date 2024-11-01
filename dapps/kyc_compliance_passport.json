@@ -18,23 +18,23 @@
     }
   },
   "reticulum": {
-    "circom_verifier": "0xEc26ac6f9368DAB668E1B3d8b5f44AF96E286DF3",
+    "circom_verifier": "0x463dfFA3c0A2A4E96130ffF7a656E971cb10c2bb",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json",
     "non_US": {
-      "AgeCitizenshipKYC": "0xC76EeA5e4104a4c980E5A1151D5219b548bAEcc2",
-      "BasicKYCExampleDApp": "0x848A09e5757d5997F91D43ded73bd8dABf2294a7",
-      "verificationSBT": "0xbF9126A4C3E4D0bc3fFE5e7341A5F78A737B05D9"
+      "AgeCitizenshipKYC": "0x11135600Dde9FE26d0Eb10334D9C25dc67426f4A",
+      "BasicKYCExampleDApp": "0x2D43f09b41a74B3076905265c80F5921c6eFD328",
+      "verificationSBT": "0x30CD3bA2407B086BA6f125edfCFa007a1Ee76252"
     },
     "non_sanctioned_jurisdiction": {
-      "AgeCitizenshipKYC": "0x24d901B3Ab83814255047489825a0A3fefF1984F",
-      "BasicKYCExampleDApp": "0x7E36c7Fe96d625469Da697442be36180eAaFe2a6",
-      "verificationSBT": "0x2b4b3D0D2848cf3BDa217228d7c64feeb848b4B0"
+      "AgeCitizenshipKYC": "0x1ef11D1ea00FFaD864432EffA605083105C86D8f",
+      "BasicKYCExampleDApp": "0xBEc96eDaaA52377b138815E71F59eFC65882821a",
+      "verificationSBT": "0x522b13b02B937606f6F377E1090C05Dc772a5687"
     },
     "adult_18_plus": {
-      "AgeCitizenshipKYC": "0x1691A5CAbEF91DB2C896F26CFdBE2349d63baBB7",
-      "BasicKYCExampleDApp": "0xc3CCA9dbc1d7251b0d1704189BD7641DF177a5D9",
-      "verificationSBT": "0x1653a320D784De015eBe383d0A8c49151002F0A5"
+      "AgeCitizenshipKYC": "0xD80955Ce6b4BE0e3Ee04FDaEcB05E4bDd7743775",
+      "BasicKYCExampleDApp": "0x8DD5750C7c491efAE1447dAc641FDeEB3bEbCB9f",
+      "verificationSBT": "0xA25D821Ef0aabcf8B9228dc5bC26E98FF788Bd8e"
     }
   }
 }
