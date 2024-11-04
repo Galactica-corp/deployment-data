@@ -80,12 +80,12 @@
     ]
   },
   "Galactica Example Guardian": {
-    "address": "0x40f2e27f95b50E4D13849d09d2504004A2D57f50",
+    "address": "0x4b8d7cde2a2a8cac5ef564bbafd5c699a63b31a8",
     "pubKey": {
-      "Ax": "542392217015776343324167851102883958988823179521847413386993369514251363551",
-      "Ay": "3645175600008694986783689549861958630754008863574202468998120858655806309705"
+      "Ax": "14274275498404876210531252147726484389932128867935893205919283859709682050020",
+      "Ay": "14484985368530970215045463933328249984447126971801628243846848861843842803372"
     },
-    "metadata_url": "ipfs://QmbxKQbSU2kMRx3Q96JWFvezKVCKv8ik4twKg7SFktkrgx",
+    "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
     "active_networks": [
       "andromeda",
       "reticulum"
