@@ -1,19 +1,19 @@
 {
   "andromeda": {
-    "SBTManager": "0x3e2Ae72c127008e738EeF1Ea5b83594558095451",
-    "TwitterCreationTimeProofVerifier": "0x4af769ea4F45166E8453b67340781dF0E29E6e7A",
-    "TwitterCreationTimeProof": "0x7830E296c33d88b93376413aB952a737FC332c13",
-    "TwitterFollowersCountVerifier": "0x1A29924A1d29B179B71Bd2D50a5Ca872c6035f31",
-    "TwitterFollowersCount": "0xAe126E810A0B035a50821eBC92fC73352f3F8852",
-    "VerificationSBT1 (FollowerCount 100)": "0xe79b324a977484b958D5aF31476D8023CE68A6B2",
-    "VerificationSBT2 (FollowerCount 1000)": "0x55B18bC738d7ecb939814dDc434361Ecb7d39448",
-    "VerificationSBT3 (FollowerCount 10000)": "0x71A289BC86704c31d75368B4b63FE85f6Fa8486F",
-    "VerificationSBT4 (CreationTime before 2020)": "0x1e575881CfeeF132Ef928CF6a369c53638683685",
-    "VerificationSBT5 (CreationTime in 2024)": "0xD5E27e0cE400FD70B7543Ee686951e926737793e",
-    "proverTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0x4af769ea4F45166E8453b67340781dF0E29E6e7A.prover.json",
-    "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x1A29924A1d29B179B71Bd2D50a5Ca872c6035f31.prover.json",
-    "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0x4af769ea4F45166E8453b67340781dF0E29E6e7A.vkey.json",
-    "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x1A29924A1d29B179B71Bd2D50a5Ca872c6035f31.vkey.json"
+    "SBTManager": "0x583432E003814620459e9E0156dFa7003c2077B2",
+    "TwitterCreationTimeProofVerifier": "0x7663750B25db5FE89CbA46D7E401C99ad62e7bbE",
+    "TwitterCreationTimeProof": "0x5a28df7F731EBd7f35F4CA70eF9B77eC078e4B97",
+    "TwitterFollowersCountVerifier": "0xF2b919A105fc1FFE8Ab2bD6138e4392c13bf8e57",
+    "TwitterFollowersCount": "0x48Cb2988fF778041Ac4D60De4927234CBEDA2fee",
+    "VerificationSBT1 (FollowerCount 100)": "0x3dd6fb2a326aA52C10dAbB2c62B8078cea3b1A8f",
+    "VerificationSBT2 (FollowerCount 1000)": "0x3800e017B0AB7804Fd09c3a5F5330150C3b66857",
+    "VerificationSBT3 (FollowerCount 10000)": "0x4ED76d93c8f50a1933f98c42f25164Fb7F61D898",
+    "VerificationSBT4 (CreationTime before 2020)": "0xE1D89D246874d78734BEa0CA32f2EDD7b55C6aA6",
+    "VerificationSBT5 (CreationTime in 2024)": "0xBC26F3A153389386d24D24e31a1B3068877e42e5",
+    "proverTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0xB90642a8EE8fcDba678AdA612863dF4db9a4ADE5.prover.json",
+    "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x12BD334f6693773b9253Df4Cb5B97A3a4c391Cf4.prover.json",
+    "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0xB90642a8EE8fcDba678AdA612863dF4db9a4ADE5.vkey.json",
+    "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x12BD334f6693773b9253Df4Cb5B97A3a4c391Cf4.vkey.json"
   },
   "reticulum": {
     "SBTManager": "0x8E642D6A2693658DB4DF24D4eEd6EB8C33359118",

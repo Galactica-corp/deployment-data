@@ -1,10 +1,10 @@
 {
   "andromeda": {
-    "compliant_erc20": "0x13b2Bf1d76687B88cF936480F9682Eec0Abb34E8",
-    "compliance_dapp": "0x5C824b8b2aC21F423D4b8C32A704d00729078409",
-    "verifier_wrapper": "0x706ab44E708810DBe516319929e0E59e6eDAa881",
-    "circom_verifier": "0x6aE51495AF331BDB1031cb0F4612C0b665155c25",
-    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
+    "compliant_erc20": "0xd90296c5547241ae8e99c8eE244f90B3E385FddA",
+    "compliance_dapp": "0xDfDC52B0E990Eda9865c4d1e66Ceb922A3D3333d",
+    "verifier_wrapper": "0x93D688F8923f9C91AEc7f34D41940fCca2D04654",
+    "circom_verifier": "0xEd08e963F10343Bb0896e5F508F2FE0e27b1D68D",
+    "verificationSBT": "0x517FB7605C172c2Bcfa080d0Dc5D04C49501a4d2",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x6aE51495AF331BDB1031cb0F4612C0b665155c25.vkey.json"
   },

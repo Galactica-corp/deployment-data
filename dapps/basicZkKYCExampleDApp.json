@@ -1,10 +1,10 @@
 {
   "andromeda": {
-    "circom_verifier": "0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66",
-    "verificationSBT": "0x108f39364e8bCFeA45Bc3d3965f0A06f89bA2B06",
-    "zkKYC_verifier_wrapper": "0x2c63e4CD5D3376750383855FF686b2c28E33aCfB",
-    "basicKYCExampleDApp:": "0xeC7D005Fed567EDCbA285f9585dC20920F4dE98f",
-    "repeatableZKPTest": "0x7DF17C479ADf6AFFECB094ec829B0216f31e62fC",
+    "circom_verifier": "0xB6C34eEFC05DE291171423c3AEBF79a8898A267a",
+    "verificationSBT": "0x1D0460b410705E1a78269C166F217797097E6271",
+    "zkKYC_verifier_wrapper": "0xaeD7e5B57F6D71b98b586dB57D925AC812B75B54",
+    "basicKYCExampleDApp:": "0xF4a4199ec7AE981Ba0D0D3712A30a78887C53A38",
+    "repeatableZKPTest": "0x9E77F1B904E67455701c022dA02E808bB9b987EB",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.vkey.json"
   },
