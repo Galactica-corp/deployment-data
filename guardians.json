@@ -79,15 +79,28 @@
       "twitter"
     ]
   },
-  "Galactica Example Guardian": {
-    "address": "0x4b8d7cde2a2a8cac5ef564bbafd5c699a63b31a8",
+  "Galactica Example Guardian Andromeda": {
+    "address": "0x40f2e27f95b50E4D13849d09d2504004A2D57f50",
     "pubKey": {
-      "Ax": "14274275498404876210531252147726484389932128867935893205919283859709682050020",
-      "Ay": "14484985368530970215045463933328249984447126971801628243846848861843842803372"
+      "Ax": "16853827986780808534726543884501724395278515213952111792809721469073524018134",
+      "Ay": "8819147639765627946842009687834816512574053737835509810154427502217527747787"
     },
     "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
     "active_networks": [
-      "andromeda",
+      "reticulum"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
+  },
+  "Galactica Example Guardian Reticulum": {
+    "address": "0x4b8d7cde2a2a8cac5ef564bbafd5c699a63b31a8",
+    "pubKey": {
+      "Ax": "2750506182121842777352633000756336441607821025918514443768045269600238716626",
+      "Ay": "18769900456235992444272531716343846295548142577258373414609968331328760774275"
+    },
+    "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
+    "active_networks": [
       "reticulum"
     ],
     "zk_cert_types": [
