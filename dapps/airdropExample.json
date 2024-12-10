@@ -1,17 +1,17 @@
 {
   "andromeda": {
-    "circom_verifier": "0x7543F09aB1e265c79dA8B508f4Fc68D31189B9Ca",
-    "AgeCitizenshipKYC_verifier_wrapper": "0xAe68834F97F4de98ED7b1E9E397F3Fc050fbE35a",
-    "mockDApp:": "0xD61e78Dc7Ea94deE234E0a93672Ae093A1C0b999",
-    "verificationSBT": "0x9054E8068739371399322aBEa7573eA3cDb6583B",
+    "circom_verifier": "0x89A41c8873Ee2Be84e43dc12C405Ae8Fb23Cf360",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x1A1d7C48Ba5626E8C3FC2b188251C90303cF6325",
+    "mockDApp:": "0x64408C5A6fC6886fb00C500DC5d6A2fd6F2999F8",
+    "verificationSBT": "0xFD58aD1e6e43C9845777215EA0C94273a6a8638b",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
   },
   "reticulum": {
-    "circom_verifier": "0xC59FBD8452Cc4317A240459359dca3Dd5f5bD9b8",
-    "AgeCitizenshipKYC_verifier_wrapper": "0x04392500229C057257E6404f5e86b9C282BCea9D",
-    "mockDApp:": "0x33E6E9Da057adc96b00357d8dfEB577fC202f0bf",
-    "verificationSBT": "0xc2F4F3e7D5fBC144aed5609d22eE0c8B7296a2a4",
+    "circom_verifier": "0x88E4570e9c13361780997AaB406c8F9ef5a6D176",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x6f70FE1C9252C2D4eD1C7c3194088349C4B7902e",
+    "mockDApp:": "0x757609D5e840a43Efd37c70a43e3e68135671833",
+    "verificationSBT": "0xc130e23B761378A717e67F4F0A23534356C969A7",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
   }

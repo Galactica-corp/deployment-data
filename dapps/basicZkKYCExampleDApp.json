@@ -1,18 +1,19 @@
 {
   "andromeda": {
-    "circom_verifier": "0xB6C34eEFC05DE291171423c3AEBF79a8898A267a",
-    "verificationSBT": "0x1D0460b410705E1a78269C166F217797097E6271",
-    "zkKYC_verifier_wrapper": "0xaeD7e5B57F6D71b98b586dB57D925AC812B75B54",
-    "basicKYCExampleDApp:": "0xF4a4199ec7AE981Ba0D0D3712A30a78887C53A38",
-    "repeatableZKPTest": "0x9E77F1B904E67455701c022dA02E808bB9b987EB",
-    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.json",
-    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x5cAF5b0D2e64b0ff3b08eCbe4eB3448c8b8D3D66.vkey.json"
+    "circom_verifier": "0x368638bF7a367476982113471bd9e89B3F443bEC",
+    "verificationSBT": "0xA0850C3405Ac8B6Fb117Db2BE1b93E357E7CeB92",
+    "zkKYC_verifier_wrapper": "0xBE733a332C0239786477A9aC8B9D913f071534b2",
+    "basicKYCExampleDApp:": "0x7B96c4bF4416eD19E89697b8F646E7C98911984A",
+    "repeatableZKPTest": "0x4d1B0Ab30FAa56d91552bd161D66E68021e3c8eA",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.prover.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
   },
   "reticulum": {
-    "circom_verifier": "0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13",
-    "verificationSBT": "0xec023F368a8933B9A0AeE8A196F397763D88b12e",
-    "zkKYC_verifier_wrapper": "0xfDa5904dC71a244Ab88D86CE015365c17FEbe3CE",
-    "basicKYCExampleDApp:": "0x1C42cD28b217321B8875a5eDf09134dBBD3D7723",
+    "circom_verifier": "0x1384AeD237A1Db96a596442FBF8952433E8e0BD6",
+    "verificationSBT": "0xD08CFfaF82bf6E60bD99ba8CB0Ad8F0c4Bc1eEdc",
+    "zkKYC_verifier_wrapper": "0x107421e15b91A05564e254b20a6e903d1C11094F",
+    "basicKYCExampleDApp:": "0xD3C266a77a478A415Ee27487aF3b0f62D088233a",
+    "repeatableZKPTest": "0x68B41A51e749fD4cbC4055b5FA332EF8e7ae4F39",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
   }

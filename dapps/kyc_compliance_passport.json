@@ -1,42 +1,42 @@
 {
   "andromeda": {
-    "circom_verifier": "0xf6821C2f15292599122037eB34A82FaF2f490b9D",
-    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A.json",
-    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0xFB102F1583eF27bc2cE72AF08dCfB8a783102d3A.vkey.json",
-    "non_US": {
-      "AgeCitizenshipKYC": "0xF7ED8EBC21F5235d5a6ba906f3Fe1068450Ef5aF",
-      "BasicKYCExampleDApp": "0x8151A8F184c89795D31bc2E48e50b8b2a4223dd0",
-      "verificationSBT": "0x5699bBBC1d205F6c3C6C3fBd3cE48312D0e6E7d4"
-    },
-    "non_sanctioned_jurisdiction": {
-      "AgeCitizenshipKYC": "0xA31935D5d33e53ae3bFfAb314777739A8eca2E10",
-      "BasicKYCExampleDApp": "0xb010eb02411B06Ab9010A4Fe06b5d2c34c147fF4",
-      "verificationSBT": "0x5bEA784b06E2Af2c4cbD3ED626113136ffB7843A"
-    },
-    "adult_18_plus": {
-      "AgeCitizenshipKYC": "0xF40d00DD115aec81985cAB001Fddeee585DE1c1c",
-      "BasicKYCExampleDApp": "0x20d4da61C6717300063e1faD0f32Fcf0c3975c1F",
-      "verificationSBT": "0x8D556241b9d6646e40ABC0Aae67550529eb36079"
-    }
-  },
-  "reticulum": {
-    "circom_verifier": "0x463dfFA3c0A2A4E96130ffF7a656E971cb10c2bb",
+    "circom_verifier": "0xf13007Ab152aD51776eEc8d0F69103c3c90a35d0",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json",
     "non_US": {
-      "AgeCitizenshipKYC": "0x11135600Dde9FE26d0Eb10334D9C25dc67426f4A",
-      "BasicKYCExampleDApp": "0x2D43f09b41a74B3076905265c80F5921c6eFD328",
-      "verificationSBT": "0x30CD3bA2407B086BA6f125edfCFa007a1Ee76252"
+      "AgeCitizenshipKYC": "0x986684eBfEDC641D8bB61432C3970C2339f4Bb26",
+      "BasicKYCExampleDApp": "0x211949d845B7e0BbD5549A265aa18d5A81B5a5fD",
+      "verificationSBT": "0xb989063CCa8aE5EE7ea79Bb4df8a778eF65FdabA"
     },
     "non_sanctioned_jurisdiction": {
-      "AgeCitizenshipKYC": "0x1ef11D1ea00FFaD864432EffA605083105C86D8f",
-      "BasicKYCExampleDApp": "0xBEc96eDaaA52377b138815E71F59eFC65882821a",
-      "verificationSBT": "0x522b13b02B937606f6F377E1090C05Dc772a5687"
+      "AgeCitizenshipKYC": "0x9C4666Ed841300913FcE7CFBfc0F92A679ace989",
+      "BasicKYCExampleDApp": "0xe200a2929c28955330f358B7C50BfDCaa4f30fDd",
+      "verificationSBT": "0x321836b2D76069F57ad1F56Fb68D499b9fBec01d"
     },
     "adult_18_plus": {
-      "AgeCitizenshipKYC": "0xD80955Ce6b4BE0e3Ee04FDaEcB05E4bDd7743775",
-      "BasicKYCExampleDApp": "0x8DD5750C7c491efAE1447dAc641FDeEB3bEbCB9f",
-      "verificationSBT": "0xA25D821Ef0aabcf8B9228dc5bC26E98FF788Bd8e"
+      "AgeCitizenshipKYC": "0x47f2DC0b7c62352881c8C821999b66B95ECCE6ab",
+      "BasicKYCExampleDApp": "0x1A5bf76d031CC09307cd45e8672fB29efED60240",
+      "verificationSBT": "0x08398Ebe15a2A08e8042447f5E2bD64111462797"
+    }
+  },
+  "reticulum": {
+    "circom_verifier": "0x20d35158b9e6018935F82D0f1eB02Fe7cB586BB1",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json",
+    "non_US": {
+      "AgeCitizenshipKYC": "0xD92cEB19D0Fa39Ab21239a94A57c222A4EE43505",
+      "BasicKYCExampleDApp": "0x960C2Ad09336D499084C87b97A99E15196B9f3d8",
+      "verificationSBT": "0xe3c88f9A904b4590164813DDD5100E0a089a1dA2"
+    },
+    "non_sanctioned_jurisdiction": {
+      "AgeCitizenshipKYC": "0x39042e65Ed8b455B2D88e803265160e0309E644B",
+      "BasicKYCExampleDApp": "0x86C047D7045fe4A11B38A69CF0884FF294503347",
+      "verificationSBT": "0x96aBb6731866D18eD40c725b634Ab8dc1cB57d02"
+    },
+    "adult_18_plus": {
+      "AgeCitizenshipKYC": "0x3C9bd3c53C8bd5B15dD8755a719b39B73D74bfc3",
+      "BasicKYCExampleDApp": "0x92a0884685e3E8184612cffb983cC13B961B0ED2",
+      "verificationSBT": "0x72E8008Ba7985C20e211203A3780006176E1a6AD"
     }
   }
 }
