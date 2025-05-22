@@ -6,5 +6,9 @@
   "reticulum": {
     "guardian_registry": "0x95FAAD188B198d3E69E8029B898c845Dc1650360",
     "certificate_registry": "0x37b9D63b9de7a66843c6fb46b788bA1Fc9839e85"
+  },
+  "cassiopeia": {
+    "guardian_registry": "",
+    "certificate_registry": ""
   }
 }

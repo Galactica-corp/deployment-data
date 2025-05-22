@@ -16,5 +16,14 @@
     "repeatableZKPTest": "0x68B41A51e749fD4cbC4055b5FA332EF8e7ae4F39",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
+  },
+  "cassiopeia": {
+    "circom_verifier": "0xeC222FBea6c4a33f947107B0abad80dab6734975",
+    "verificationSBT": "0xb57ccAB4f4A8B157AE0D602322D6238A16b9F328",
+    "zkKYC_verifier_wrapper": "0x5751B07F0774682eD65506cB1D319318C8affe6c",
+    "basicKYCExampleDApp:": "0x1939E8b75e042cf160A55AcFA9a4d19bb7455313",
+    "repeatableZKPTest": "0x70B5fB320b261C2Df354CC25f3Bba33Df41093B9",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.prover.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
   }
 }

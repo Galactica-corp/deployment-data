@@ -1,13 +1,13 @@
 {
-    "andromeda": {
-    },
-    "reticulum": {
-        "GalacticaOfficialSBT(GG90)": "0x579bDA427104eaAfBb5c064274769b6b53db3d33",
-        "GalacticaOfficialSBT(GGWIN)": "0x0DE690e91E72E232096f350198948DD340B7b2eA",
-        "GalacticaOfficialSBT(GGAL)": "0x063C05300159075cd449988B2fE3aB6E8F5654bA",
-        "GalacticaOfficialSBT(CSEQU)": "0x48c640Db8613c6FA48dd27d34da0F5315109F4Ec",
-        "GalacticaOfficialSBT(CSGHO)": "0x67Dd2471E2062854a03Dc78aE971c7FDAB9e5e58",
-        "GalacticaOfficialSBT(CSESP)": "0xb759a7A41Fb4F23e6bBd4602a06066E246d4c169",
-        "GalacticaOfficialSBT(CSELY)": "0xF8e0C6e86a1614C7595f6Faf9cCd19cA883D75C9"
-    }
+  "andromeda": {},
+  "reticulum": {
+    "GalacticaOfficialSBT(GG90)": "0x579bDA427104eaAfBb5c064274769b6b53db3d33",
+    "GalacticaOfficialSBT(GGWIN)": "0x0DE690e91E72E232096f350198948DD340B7b2eA",
+    "GalacticaOfficialSBT(GGAL)": "0x063C05300159075cd449988B2fE3aB6E8F5654bA",
+    "GalacticaOfficialSBT(CSEQU)": "0x48c640Db8613c6FA48dd27d34da0F5315109F4Ec",
+    "GalacticaOfficialSBT(CSGHO)": "0x67Dd2471E2062854a03Dc78aE971c7FDAB9e5e58",
+    "GalacticaOfficialSBT(CSESP)": "0xb759a7A41Fb4F23e6bBd4602a06066E246d4c169",
+    "GalacticaOfficialSBT(CSELY)": "0xF8e0C6e86a1614C7595f6Faf9cCd19cA883D75C9"
+  },
+  "cassiopeia": {}
 }

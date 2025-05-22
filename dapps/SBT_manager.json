@@ -30,5 +30,17 @@
     "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x12BD334f6693773b9253Df4Cb5B97A3a4c391Cf4.prover.json",
     "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.0xB90642a8EE8fcDba678AdA612863dF4db9a4ADE5.vkey.json",
     "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x12BD334f6693773b9253Df4Cb5B97A3a4c391Cf4.vkey.json"
+  },
+  "cassiopeia": {
+    "SBTManager": "",
+    "TwitterCreationTimeProofVerifier": "",
+    "TwitterCreationTimeProof": "",
+    "TwitterFollowersCountVerifier": "",
+    "TwitterFollowersCount": "",
+    "VerificationSBT1 (FollowerCount 100)": "",
+    "VerificationSBT2 (FollowerCount 1000)": "",
+    "VerificationSBT3 (FollowerCount 10000)": "",
+    "VerificationSBT4 (CreationTime before 2020)": "",
+    "VerificationSBT5 (CreationTime in 2024)": ""
   }
 }

@@ -5,6 +5,9 @@
     },
     "reticulum": {
       "url": "https://evm-rpc-http-reticulum.galactica.com/"
+    },
+    "cassiopeia": {
+      "url": "https://galactica-cassiopeia.g.alchemy.com/public"
     }
   },
   "etherscan": {
@@ -24,11 +27,20 @@
           "apiURL": "https://explorer-reticulum.galactica.com/api",
           "browserURL": "https://explorer-reticulum.galactica.com/"
         }
+      },
+      {
+        "network": "cassiopeia",
+        "chainId": 843843,
+        "urls": {
+          "apiURL": "https://galactica-cassiopeia.explorer.alchemy.com/api",
+          "browserURL": "https://galactica-cassiopeia.explorer.alchemy.com/"
+        }
       }
     ],
     "apiKey": {
       "galaAndromeda": "",
-      "reticulum": ""
+      "reticulum": "",
+      "cassiopeia": "Get it from Alchemy"
     }
   }
 }

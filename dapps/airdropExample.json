@@ -14,5 +14,13 @@
     "verificationSBT": "0xc130e23B761378A717e67F4F0A23534356C969A7",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
+  },
+  "cassiopeia": {
+    "circom_verifier": "0x69AEed769f064400f0e372C1f50d6424e0755F44",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x79fe50f43ee859c4B3329756ca23F76546fFE0F9",
+    "mockDApp:": "0x4C98E3Fe3301ae253B501E09924D11672bf5EE56",
+    "verificationSBT": "0x14d0A3Edb1EbD3C17ED620DA4F00903b5995c8ec",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.prover.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
   }
 }
