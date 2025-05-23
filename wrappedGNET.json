@@ -1,0 +1,11 @@
+{
+  "andromeda": {
+    "wrappedGNET": "0x1fA98f7B53dCCC93f37243e2069781225dE442f3"
+  },
+  "reticulum": {
+    "wrappedGNET": "0x67A4B50798c190C77d872D9f02C8a860ad1488e7"
+  },
+  "cassiopeia": {
+    "wrappedGNET": "0x3CC60CeD9c4896B284EF6f95D14137945aA319fb"
+  }
+}
