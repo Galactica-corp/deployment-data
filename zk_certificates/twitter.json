@@ -8,7 +8,7 @@
     "certificate_registry": "0xe262d4e095BAb2F6e32ED46C5bBec5Fe73f1a0eA"
   },
   "cassiopeia": {
-    "guardian_registry": "",
-    "certificate_registry": ""
+    "guardian_registry": "0x4d16D597BA3D144d62A557593443B0468E1A1D1a",
+    "certificate_registry": "0xebB99364d4615B7667560f89e28fBf56bE82BfE9"
   }
 }
