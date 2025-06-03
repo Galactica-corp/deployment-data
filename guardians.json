@@ -8,7 +8,8 @@
     "metadata_url": "ipfs://QmbxKQbSU2kMRx3Q96JWFvezKVCKv8ik4twKg7SFktkrgx",
     "active_networks": [
       "andromeda",
-      "reticulum"
+      "reticulum",
+      "cassiopeia"
     ],
     "zk_cert_types": [
       "kyc",
@@ -57,7 +58,8 @@
     },
     "metadata_url": "ipfs://QmTdHoVA9gLA1Mk6Csfd2SxMkEdbuSu7xK8dDxUdFVCunx",
     "active_networks": [
-      "reticulum"
+      "reticulum",
+      "cassiopeia"
     ],
     "zk_cert_types": [
       "kyc"
@@ -87,7 +89,8 @@
     },
     "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
     "active_networks": [
-      "reticulum"
+      "reticulum",
+      "cassiopeia"
     ],
     "zk_cert_types": [
       "kyc"
@@ -101,7 +104,8 @@
     },
     "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
     "active_networks": [
-      "reticulum"
+      "reticulum",
+      "cassiopeia"
     ],
     "zk_cert_types": [
       "kyc"
