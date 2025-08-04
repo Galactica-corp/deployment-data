@@ -18,12 +18,12 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
   },
   "cassiopeia": {
-    "circom_verifier": "0xeC222FBea6c4a33f947107B0abad80dab6734975",
-    "verificationSBT": "0xb57ccAB4f4A8B157AE0D602322D6238A16b9F328",
-    "zkKYC_verifier_wrapper": "0x5751B07F0774682eD65506cB1D319318C8affe6c",
-    "basicKYCExampleDApp:": "0x1939E8b75e042cf160A55AcFA9a4d19bb7455313",
-    "repeatableZKPTest": "0x70B5fB320b261C2Df354CC25f3Bba33Df41093B9",
-    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.prover.json",
-    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.0x9Ca5D07F5BA5159BE8E611d000CB263818e4bc13.vkey.json"
+    "circom_verifier": "0x9D0c5e8aa073E5cf325e4C280b55cF431Bdc3ab0",
+    "verificationSBT": "0xdaE7B9F25e7F1ed2D875E93d1831582EeceBEDcc",
+    "zkKYC_verifier_wrapper": "0xaa1a9FB5aee53D8a2ED5aEbA574b8E62E5b28A1A",
+    "basicKYCExampleDApp:": "0xe8d4b08900A7DeeB25D4254Bc4Dafacf41e04B1A",
+    "repeatableZKPTest": "0x31bF187756721De1eD2FD88EBCDDECF79B2902a6",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.ceremony.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.ceremony.vkey.json"
   }
 }
