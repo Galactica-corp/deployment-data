@@ -110,5 +110,19 @@
     "zk_cert_types": [
       "kyc"
     ]
+  },
+  "Galactica Example Guardian Cassiopeia": {
+    "address": "0x4b8d7cde2a2a8cac5ef564bbafd5c699a63b31a8",
+    "pubKey": {
+      "Ax": "2750506182121842777352633000756336441607821025918514443768045269600238716626",
+      "Ay": "18769900456235992444272531716343846295548142577258373414609968331328760774275"
+    },
+    "metadata_url": "https://bafybeigkjmb3aeqbfdcqwlbirhbbylce3b5rjttdp2fefnjjuwet5glpxe.ipfs.dweb.link",
+    "active_networks": [
+      "cassiopeia"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
   }
 }
