@@ -124,5 +124,19 @@
     "zk_cert_types": [
       "kyc"
     ]
+  },
+  "Occam Data Guardian Cassiopeia": {
+    "address": "0x3D16Ea1a1a4129464466D5c75347a88Bf73a2288",
+    "pubKey": {
+      "Ax": "6925081015152596833630127274578745799802479602575631362893913163012217004972",
+      "Ay": "13685913678080322977211435444902747344004323816568707550537909034728228077768"
+    },
+    "metadata_url": "https://dataguardian.s3.eu-central-1.amazonaws.com/OccamDataGuardianMetadata.json",
+    "active_networks": [
+      "cassiopeia"
+    ],
+    "zk_cert_types": [
+      "twitter"
+    ]
   }
 }
