@@ -51,7 +51,7 @@
     "non_sanctioned_jurisdiction": {
       "AgeCitizenshipKYC": "0x173646C07c3507534896EEe5a7ef96400Ad904aa",
       "BasicKYCExampleDApp": "0xa680fb1e1c60Ffa6bABF9FBd936bE647671F951E",
-      "verificationSBT": "0xdf9bDf7227636048B19A6fcdD4E9878cc1D724D2"
+      "verificationSBT": "0x95Bf56Ca792c901F3529aFeb8b7673B472C4D0B1"
     },
     "adult_18_plus": {
       "AgeCitizenshipKYC": "0x5155575CE18f16C72a398De63Ab345F908777368",
