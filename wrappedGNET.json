@@ -1,4 +1,7 @@
 {
+  "mainnet": {
+    "wrappedGNET": "0x690F1eEf8AcEaD09Ac695d9111Af081045c6d5b7"
+  },
   "andromeda": {
     "wrappedGNET": "0x1fA98f7B53dCCC93f37243e2069781225dE442f3"
   },
