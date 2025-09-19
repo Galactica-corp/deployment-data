@@ -40,23 +40,23 @@
     }
   },
   "cassiopeia": {
-    "circom_verifier": "0xFFf4e40d27150c54360370E37ba5955A00b0Ad82",
+    "circom_verifier": "0xFe19E7e3d44DDE8b427117D5577BD7008Ec151a4",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.vkey.json",
     "non_US": {
-      "AgeCitizenshipKYC": "0xebBa39b0C583E28d131207b764acFF5461549E3F",
-      "BasicKYCExampleDApp": "0x8e0E26BfaB75883e3E13017eB290E880B6fb184f",
-      "verificationSBT": "0xdfABBaCf35128De7977B273B2C1FcF1546947368"
+      "AgeCitizenshipKYC": "0x29ac2D23F2E528385C4373eD9962bEbb7f8E8b1A",
+      "BasicKYCExampleDApp": "0xbF69C40fA1aca6b4456f47Aa86C9f558E2E999aA",
+      "verificationSBT": "0xE157A0a676D7af8a032bC9f86AD274053E526ae3"
     },
     "non_sanctioned_jurisdiction": {
-      "AgeCitizenshipKYC": "0x173646C07c3507534896EEe5a7ef96400Ad904aa",
-      "BasicKYCExampleDApp": "0xa680fb1e1c60Ffa6bABF9FBd936bE647671F951E",
-      "verificationSBT": "0x95Bf56Ca792c901F3529aFeb8b7673B472C4D0B1"
+      "AgeCitizenshipKYC": "0x6120e4bE5c799A301d6bce8cDbFA4754f745275E",
+      "BasicKYCExampleDApp": "0x895C19e27B58e99bDb51B90976807B02E8c8Eb2A",
+      "verificationSBT": "0xeD410826F315F6EA9A5CbFb5CD28c3B0C92ED123"
     },
     "adult_18_plus": {
-      "AgeCitizenshipKYC": "0x5155575CE18f16C72a398De63Ab345F908777368",
-      "BasicKYCExampleDApp": "0x641e8CA3dD1966a90C35C4fd12dAf777a65BA95F",
-      "verificationSBT": "0xc9764cb8BD8aFe6c726B7AeDf66Ea6fE4EC0b83b"
+      "AgeCitizenshipKYC": "0xaE914977390EFaaAd6761505731861b2E34ebB6a",
+      "BasicKYCExampleDApp": "0xDf007Bc74d1Bec0AbE24Fa14C6225d423E9904aA",
+      "verificationSBT": "0x00ee1DE618DE798B175Fc754A7964d61C54131dd"
     }
   }
 }

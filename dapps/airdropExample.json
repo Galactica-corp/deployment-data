@@ -16,10 +16,10 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.0x01cBD5b467bA6C82d9A8BC6523a38Df0D677F817.vkey.json"
   },
   "cassiopeia": {
-    "circom_verifier": "0x360e7Ae34887b552278b636AF92DF21721cfdE22",
-    "AgeCitizenshipKYC_verifier_wrapper": "0xD5A4Fc7d665BAf5Ad29328f4d1aa95085B7179e9",
-    "mockDApp:": "0xE0523201F9147dc9490742302Ac3bc316bB5A8ec",
-    "verificationSBT": "0xEac4ec82A5e8E602CBFc61b4804dAf58F9A3EA06",
+    "circom_verifier": "0x24a61B9D4EA51D8FBB8b535b39e05C90F3E10676",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x80BE43b89a6E2de9ee4bC9F5311a3e561B478127",
+    "mockDApp:": "0x807b1F741cc82E522c4C94073C094b6A9EE51D91",
+    "verificationSBT": "0x61C6E5a8Dbe246D2F6220704E7b8894ACa254671",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.vkey.json"
   }
