@@ -22,5 +22,13 @@
     "verificationSBT": "0x61C6E5a8Dbe246D2F6220704E7b8894ACa254671",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.vkey.json"
+  },
+  "galacticaMainnet": {
+    "circom_verifier": "0xB2b656Fd6654cF4029706903Ae5614bbea25D045",
+    "AgeCitizenshipKYC_verifier_wrapper": "0x58449C0A562dDf53CA677A84392CFE682F9946D5",
+    "mockDApp:": "0x25607b2BB3eb3304A9A1B8847bd682c89deab26A",
+    "verificationSBT": "0x0DF339F89D4ADc16A1d17722e9571Dd5D5573b2c",
+    "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.json",
+    "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.vkey.json"
   }
 }

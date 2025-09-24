@@ -1,0 +1,8 @@
+{
+  "galacticaMainnet": {
+    "multicall": "0x8F2B7e8b9c038626930D305c1a3Db0e62Bbb6f44"
+  },
+  "cassiopeia": {
+    "multicall": "0x37B8D1d8f7b718001ca4Ca1b2EC08010c16047Aa"
+  }
+}

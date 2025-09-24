@@ -8,6 +8,9 @@
     },
     "cassiopeia": {
       "url": "https://galactica-cassiopeia.g.alchemy.com/public"
+    },
+    "galacticaMainnet": {
+      "url": "https://galactica-mainnet.g.alchemy.com/public"
     }
   },
   "etherscan": {
@@ -35,12 +38,21 @@
           "apiURL": "https://galactica-cassiopeia.explorer.alchemy.com/api",
           "browserURL": "https://galactica-cassiopeia.explorer.alchemy.com/"
         }
+      },
+      {
+        "network": "galacticaMainnet",
+        "chainId": 613419,
+        "urls": {
+          "apiURL": "https://explorer.galactica.com/api",
+          "browserURL": "https://explorer.galactica.com/"
+        }
       }
     ],
     "apiKey": {
       "galaAndromeda": "",
       "reticulum": "",
-      "cassiopeia": "Get it from Alchemy"
+      "cassiopeia": "Get it from Alchemy",
+      "galacticaMainnet": "Get it from Alchemy"
     }
   }
 }

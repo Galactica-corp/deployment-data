@@ -10,5 +10,9 @@
   "cassiopeia": {
     "guardian_registry": "0xA4A3377d1198Edd7C871062e8C595768d2Ec0a10",
     "certificate_registry": "0x09e51ddFfA18B6466F6B4F09e00977Db5A8478E6"
+  },
+  "galacticaMainnet": {
+    "guardian_registry": "0xBe54D351741D664928B853E47D25601484141401",
+    "certificate_registry": "0xb1124b8736520F58b80107c3DBB9B6c6512ad43b"
   }
 }

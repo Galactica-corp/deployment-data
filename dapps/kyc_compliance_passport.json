@@ -57,6 +57,26 @@
       "AgeCitizenshipKYC": "0xaE914977390EFaaAd6761505731861b2E34ebB6a",
       "BasicKYCExampleDApp": "0xDf007Bc74d1Bec0AbE24Fa14C6225d423E9904aA",
       "verificationSBT": "0x00ee1DE618DE798B175Fc754A7964d61C54131dd"
+    },
+    "galacticaMainnet": {
+      "circom_verifier": "0xaa74e8b9242d3A2c0985ED7E48E44363ef18291A",
+      "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.json",
+      "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/ageCitizenshipKYC.ceremony.vkey.json",
+      "non_US": {
+        "AgeCitizenshipKYC": "0x8663983D21D2a834bF2D0533D9E5555306b14986",
+        "BasicKYCExampleDApp": "0xf64EBb79A5a9834Dc2e6Ba68924BFC6C330dCBfD",
+        "verificationSBT": "0x16830b5eB39f595d30CA0f9772e194de0eD86fb3"
+      },
+      "non_sanctioned_jurisdiction": {
+        "AgeCitizenshipKYC": "0x98CfFe1fD8FcA5Eaa1e665c506D5d155d9f1a371",
+        "BasicKYCExampleDApp": "0xCE684fB8735b92608CF3F229F374c954dA1f2233",
+        "verificationSBT": "0x70F171AfC3DD039D9934ccB5cDda14eE3f94b0AA"
+      },
+      "adult_18_plus": {
+        "AgeCitizenshipKYC": "0x0D068aD69bf9baCBe140b0BEad078BEF3dEa2f2d",
+        "BasicKYCExampleDApp": "0x221e73BB026A274F0CA48aa6F21E8E31a0914625",
+        "verificationSBT": "0xbAFdf7A4B73674abd89867eaE99c1D3d6cCC57a3"
+      }
     }
   }
 }
