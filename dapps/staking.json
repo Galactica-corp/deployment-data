@@ -1,0 +1,8 @@
+{
+  "cassiopeia": {
+    "staking": "0xC0F305b12a73c6c8c6fd0EE0459c93f5C73e1AB3"
+  },
+  "galacticaMainnet": {
+    "staking": "0x90B07E15Cfb173726de904ca548dd96f73c12428"
+  }
+}
