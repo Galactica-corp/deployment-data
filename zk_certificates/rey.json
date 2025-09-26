@@ -12,7 +12,7 @@
     "certificate_registry": "0x81F8f62A667B941E99A6F873833b389F63dd8C2F"
   },
   "galacticaMainnet": {
-    "guardian_registry": "0x4367d839980cA7B98d2C8042E6f80feCe5c55F2D",
-    "certificate_registry": "0xaEae442A652aE8752d8BDA84A2Ba47711671F408"
+    "guardian_registry": "0x2C7C7AFc1aF945E0E8Ce231150C9287f2c1c7524",
+    "certificate_registry": "0x1d1B46e0fBD39DD5C37F5f21002f48310F93b89F"
   }
 }

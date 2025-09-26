@@ -44,15 +44,15 @@
     "VerificationSBT5 (CreationTime in 2024)": "0x3eAD0e282227eDaDECfDFFaebE84c955fc4A7E62"
   },
   "galacticaMainnet": {
-    "SBTManager": "0xd854CDe238aC331e1A6983F77C7d1fc86760590D",
-    "TwitterCreationTimeProofVerifier": "0x0093F7C1336E1d3E595a13b97fBEeBFEaD2416f9",
-    "TwitterCreationTimeProof": "0xe5FD0C74bC3531c6705A1698568f63D3e35b5b29",
-    "TwitterFollowersCountVerifier": "0x1Db47836C56A46C17cA5116808a8319b6cB5eB46",
-    "TwitterFollowersCount": "0x44A6602380cE1cfa7f038B2E58a403d44Cba8B6C",
-    "VerificationSBT1 (FollowerCount 100)": "0x5c75bba1D465cB369025f14790eEEFE72d72F2E6",
-    "VerificationSBT2 (FollowerCount 1000)": "0xE7e1a12e1A527137634102A6a3155f4A023fd309",
-    "VerificationSBT3 (FollowerCount 10000)": "0xB2C06404D7ff09F9972C485880c182ec952a45ea",
-    "VerificationSBT4 (CreationTime before 2020)": "0xDbf79035B87868C7eD2f167Cf88aFeC89133c660",
-    "VerificationSBT5 (CreationTime in 2024)": "0x62e89E3D7549ADaD31824e0598071b2798114BD8"
+    "SBTManager": "0xB5620b5347184bF8b6D006e8C21346EF1b23bb79",
+    "TwitterCreationTimeProofVerifier": "0x5Bb45F0B6c363C7Dad02A2EAf4Cb44633fa5fc67",
+    "TwitterCreationTimeProof": "0xcd26B4EBFC2a8D522E93f5628AEaA3414097D381",
+    "TwitterFollowersCountVerifier": "0xeD1cfd46Fc370bEe0A2602Db55416de53d19dCE7",
+    "TwitterFollowersCount": "0x6f9a899A262dCDf7432404157Fa82Bd91487B796",
+    "VerificationSBT1 (FollowerCount 100)": "0x7F677138b74a8506b7Ec46F0509eE4669f347df0",
+    "VerificationSBT2 (FollowerCount 1000)": "0x2F6B67320b32C66D2A4Cd879EA4C80DD32eaa051",
+    "VerificationSBT3 (FollowerCount 10000)": "0xBBaD6Eb0D7e7c3098A05271b706bB493578F1d23",
+    "VerificationSBT4 (CreationTime before 2020)": "0x50BA8b39170fFA8f2bd262bA2e7a50E1C62f4f3A",
+    "VerificationSBT5 (CreationTime in 2024)": "0x76422C7c4F99E3366873a679198CB35AE4a0B6f9"
   }
 }

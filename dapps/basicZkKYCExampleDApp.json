@@ -27,11 +27,11 @@
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.ceremony.vkey.json"
   },
   "galacticaMainnet": {
-    "circom_verifier": "0xBC04ea681F792c62f511e3e0cc083a747A96d662",
-    "verificationSBT": "0xE306B93f25FE43Bd9fe523F19Cc34d9edd19E04B",
-    "zkKYC_verifier_wrapper": "0xb836Cf8ef4fa011C4C94A97a7820496d9D3134e4",
-    "basicKYCExampleDApp:": "0x6807D244E9bd9Ab65DB5d2C6a70889b849922071",
-    "repeatableZKPTest": "0x662204052B7BD1cCFb582FC03301108C94edc703",
+    "circom_verifier": "0xcf1DC5290226B9BFAa762bc8491CA59675a3E426",
+    "verificationSBT": "0xB2b2facA395E17168514A5b19708d5603f74aFFB",
+    "zkKYC_verifier_wrapper": "0x2C17E5B56a24da3374094dAFf8D5D1AA17117f96",
+    "basicKYCExampleDApp:": "0x4bfa12BFD9F6cfdA9AaE1Be595C450Cf7b54ba0f",
+    "repeatableZKPTest": "0xc3C8995009e2FD58221Ed82F04fa9a99058E6DdD",
     "prover": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.ceremony.json",
     "vkey": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/zkKYC.ceremony.vkey.json"
   }
