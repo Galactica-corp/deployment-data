@@ -138,5 +138,33 @@
     "zk_cert_types": [
       "twitter"
     ]
+  },
+  "Occam Data Guardian Mainnet": {
+    "address": "0xBcE8AaaB7E80A95f2206B99920c6928e56b6Ee83",
+    "pubKey": {
+      "Ax": "13659769800720214996589130281106133207009052457179136452630640947520505480050",
+      "Ay": "739400280135739860453568488699505057245546458410922425588262650013805977908"
+    },
+    "metadata_url": "ipfs://bafkreifgp7wtednoyz5spo4armehriyt65dzemxgob33qahpswfbko4zw4",
+    "active_networks": [
+      "galacticaMainnet"
+    ],
+    "zk_cert_types": [
+      "twitter"
+    ]
+  },
+  "Syntetika Guardian Mainnet": {
+    "address": "0x3B8a5F746D4A3F1c952b8dA093a731ecE85Ea50D",
+    "pubKey": {
+      "Ax": "12535495096736468371978045854051157285139163429805451242867966140971303810982",
+      "Ay": "14305233994218912687968265297172244857579792612092673852938822822940763069460"
+    },
+    "metadata_url": "ipfs://bafkreigwpd6ydz4ei3uu37toeohhjjyzxlf4irj7uzu4hmuwvbddois5fe",
+    "active_networks": [
+      "galacticaMainnet"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
   }
 }
