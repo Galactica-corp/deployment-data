@@ -32,16 +32,16 @@
     "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.0x12BD334f6693773b9253Df4Cb5B97A3a4c391Cf4.vkey.json"
   },
   "cassiopeia": {
-    "SBTManager": "0x0fB567269BA3eff032B01129772b653Cd2103116",
-    "TwitterCreationTimeProofVerifier": "0x633Acada57931983075663Fb390fa920a71A2834",
-    "TwitterCreationTimeProof": "0x2E31BD514c9d35F29d3b3079de9139BFfcbCc0C8",
-    "TwitterFollowersCountVerifier": "0x3B4dfddc01A273DBe0BFE28fAA1800d92Df13Ca7",
-    "TwitterFollowersCount": "0x499939a6C85a59E07939bfe2bF7DdcA031d0C9A1",
-    "VerificationSBT1 (FollowerCount 100)": "0x100648cDc5d5F4187c9e09531099F9169de43dDe",
-    "VerificationSBT2 (FollowerCount 1000)": "0x80232282513D98721096DDB74D64ab29777d565A",
-    "VerificationSBT3 (FollowerCount 10000)": "0xDc76bab893E977CB48849A5f9A7A04B66BECd31C",
-    "VerificationSBT4 (CreationTime before 2020)": "0x6224Cd873b46558c11e200570dcd988C74D1D1A4",
-    "VerificationSBT5 (CreationTime in 2024)": "0x3eAD0e282227eDaDECfDFFaebE84c955fc4A7E62"
+    "SBTManager": "0x2A62552dc300D617ca4EbcC07c0d99500DD1BAda",
+    "TwitterCreationTimeProofVerifier": "0xDd2e7a28517D8ceDE52eceCEC7Bb081e78E2Dc02",
+    "TwitterCreationTimeProof": "0x5E3f89FdbAa3887e67EfEde933ef591B292E7b0A",
+    "TwitterFollowersCountVerifier": "0x2ee80d2AB4199b300539017022A537ce2F4AAF1C",
+    "TwitterFollowersCount": "0xAa2b7B56aD95B3a43aE0A46aAc16857325CD81B8",
+    "VerificationSBT1 (FollowerCount 100)": "0x73EA4f09Ce71Eadb2dAFEf272f60A8EBfD3B6Ec8",
+    "VerificationSBT2 (FollowerCount 1000)": "0xB42d7bBCB23C63306fd6A07Ae26A67A234dbD019",
+    "VerificationSBT3 (FollowerCount 10000)": "0x676e5ef75638C285f9A3342766637E2Bc0A9F779",
+    "VerificationSBT4 (CreationTime before 2020)": "0x2A37c0B3a76Ed815079b9f54E7801cFD439dDE80",
+    "VerificationSBT5 (CreationTime in 2024)": "0x3eAD0e0xBC39110Ab4034D340E3B25E6fC562D63EC29A8dB282227eDaDECfDFFaebE84c955fc4A7E62"
   },
   "galacticaMainnet": {
     "SBTManager": "0xB5620b5347184bF8b6D006e8C21346EF1b23bb79",
