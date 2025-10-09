@@ -1,0 +1,18 @@
+{
+  "andromeda": {
+    "guardian_registry": "",
+    "certificate_registry": ""
+  },
+  "reticulum": {
+    "guardian_registry": "",
+    "certificate_registry": ""
+  },
+  "cassiopeia": {
+    "guardian_registry": "",
+    "certificate_registry": ""
+  },
+  "galacticaMainnet": {
+    "guardian_registry": "0xfe8fD613CA0eD38Eec99D863EA80DdF7AD4f47c2",
+    "certificate_registry": "0xD868A54Adf8Be3A52E71ec9Fc700553cb6f209dC"
+  }
+}

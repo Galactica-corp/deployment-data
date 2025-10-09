@@ -145,7 +145,7 @@
       "Ax": "13659769800720214996589130281106133207009052457179136452630640947520505480050",
       "Ay": "739400280135739860453568488699505057245546458410922425588262650013805977908"
     },
-    "metadata_url": "ipfs://bafkreifgp7wtednoyz5spo4armehriyt65dzemxgob33qahpswfbko4zw4",
+    "metadata_url": "https://ipfs.io/ipfs/bafkreifgp7wtednoyz5spo4armehriyt65dzemxgob33qahpswfbko4zw4",
     "active_networks": [
       "galacticaMainnet"
     ],
@@ -159,12 +159,26 @@
       "Ax": "12535495096736468371978045854051157285139163429805451242867966140971303810982",
       "Ay": "14305233994218912687968265297172244857579792612092673852938822822940763069460"
     },
-    "metadata_url": "ipfs://bafkreigwpd6ydz4ei3uu37toeohhjjyzxlf4irj7uzu4hmuwvbddois5fe",
+    "metadata_url": "ipfs://bafkreifwnsj64ifcavpkjgzztt7ex2styponuneha3h5f45wmreapwelt4",
     "active_networks": [
       "galacticaMainnet"
     ],
     "zk_cert_types": [
       "kyc"
+    ]
+  },
+  "Blum Guardian Mainnet": {
+    "address": "0x153aa0B713982ca7d4642653FAd2B2525e5c1349",
+    "pubKey": {
+      "Ax": "1312280891710602640927111041415071082956447697032059475969595724609912466929",
+      "Ay": "5853918973797264143562213342902633835175664407250331449444893395872505490465"
+    },
+    "metadata_url": "https://dataguardian.s3.eu-central-1.amazonaws.com/BlumGuardianMetadata.json",
+    "active_networks": [
+      "galacticaMainnet"
+    ],
+    "zk_cert_types": [
+      "blum"
     ]
   }
 }
