@@ -8,8 +8,8 @@
     "certificate_registry": ""
   },
   "cassiopeia": {
-    "guardian_registry": "",
-    "certificate_registry": ""
+    "guardian_registry": "0x7B6Df1d279fC60131Cbb2bCc937d01c0B05C21c0",
+    "certificate_registry": "0x37b9D63b9de7a66843c6fb46b788bA1Fc9839e85"
   },
   "galacticaMainnet": {
     "guardian_registry": "0xfe8fD613CA0eD38Eec99D863EA80DdF7AD4f47c2",
