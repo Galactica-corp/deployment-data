@@ -41,7 +41,11 @@
     "VerificationSBT2 (FollowerCount 1000)": "0xB42d7bBCB23C63306fd6A07Ae26A67A234dbD019",
     "VerificationSBT3 (FollowerCount 10000)": "0x676e5ef75638C285f9A3342766637E2Bc0A9F779",
     "VerificationSBT4 (CreationTime before 2020)": "0x2A37c0B3a76Ed815079b9f54E7801cFD439dDE80",
-    "VerificationSBT5 (CreationTime in 2024)": "0x3eAD0e0xBC39110Ab4034D340E3B25E6fC562D63EC29A8dB282227eDaDECfDFFaebE84c955fc4A7E62"
+    "VerificationSBT5 (CreationTime in 2024)": "0x3eAD0e0xBC39110Ab4034D340E3B25E6fC562D63EC29A8dB282227eDaDECfDFFaebE84c955fc4A7E62",
+    "proverTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.ceremony.json",
+    "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.ceremony.json",
+    "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.ceremony.vkey.json",
+    "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.ceremony.vkey.json"
   },
   "galacticaMainnet": {
     "SBTManager": "0xB5620b5347184bF8b6D006e8C21346EF1b23bb79",
@@ -53,6 +57,10 @@
     "VerificationSBT2 (FollowerCount 1000)": "0x2F6B67320b32C66D2A4Cd879EA4C80DD32eaa051",
     "VerificationSBT3 (FollowerCount 10000)": "0xBBaD6Eb0D7e7c3098A05271b706bB493578F1d23",
     "VerificationSBT4 (CreationTime before 2020)": "0x50BA8b39170fFA8f2bd262bA2e7a50E1C62f4f3A",
-    "VerificationSBT5 (CreationTime in 2024)": "0x76422C7c4F99E3366873a679198CB35AE4a0B6f9"
+    "VerificationSBT5 (CreationTime in 2024)": "0x76422C7c4F99E3366873a679198CB35AE4a0B6f9",
+    "proverTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.ceremony.json",
+    "proverTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.ceremony.json",
+    "vkeyTwitterCreationTime": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterCreationTimeProof.ceremony.vkey.json",
+    "vkeyTwitterFollowersCount": "https://galactica-trusted-setup.s3.eu-central-1.amazonaws.com/twitterFollowersCountProof.ceremony.vkey.json"
   }
 }
