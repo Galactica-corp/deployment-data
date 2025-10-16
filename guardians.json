@@ -145,7 +145,7 @@
       "Ax": "13659769800720214996589130281106133207009052457179136452630640947520505480050",
       "Ay": "739400280135739860453568488699505057245546458410922425588262650013805977908"
     },
-    "metadata_url": "https://ipfs.io/ipfs/bafkreifgp7wtednoyz5spo4armehriyt65dzemxgob33qahpswfbko4zw4",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifgp7wtednoyz5spo4armehriyt65dzemxgob33qahpswfbko4zw4",
     "active_networks": [
       "galacticaMainnet"
     ],
@@ -162,6 +162,20 @@
     "metadata_url": "ipfs://bafkreifwnsj64ifcavpkjgzztt7ex2styponuneha3h5f45wmreapwelt4",
     "active_networks": [
       "galacticaMainnet"
+    ],
+    "zk_cert_types": [
+      "kyc"
+    ]
+  },
+  "Syntetika Guardian Cassiopeia": {
+    "address": "0xE8E4C7744beffbAeb583E20890394cFFE056F04C",
+    "pubKey": {
+      "Ax": "18986078690882436424672538957975273123494758783510487633965802619229099434942",
+      "Ay": "12846089778290774719545603826367549485303401364744548295264359631807464051327"
+    },
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibsvwgczdcpgqwvoqspzeulze7boybb5vozibihrqpd5dozqa6qum",
+    "active_networks": [
+      "cassiopeia"
     ],
     "zk_cert_types": [
       "kyc"
